@@ -1,0 +1,23 @@
+C:\Users\Jishan\source\repos\Last Project\bin\Debug\Last Project.exe.config
+C:\Users\Jishan\source\repos\Last Project\bin\Debug\Last Project.exe
+C:\Users\Jishan\source\repos\Last Project\bin\Debug\Last Project.pdb
+C:\Users\Jishan\source\repos\Last Project\bin\Debug\Guna.UI2.dll
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last Project.csprojAssemblyReference.cache
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.Form1.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.Properties.Resources.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last Project.csproj.GenerateResource.cache
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last Project.csproj.CoreCompileInputs.cache
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last Project.csproj.CopyComplete
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last Project.exe
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last Project.pdb
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.All_User_Control.UC_CustomerRegistration.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.Dashboard.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.All_User_Control.UC_CustomerDetails.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.All_User_Control.UC_CustomerCheckOut.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.All_User_Control.UC_Employee.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.User_Panel.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.UserMenu.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.All_User_Control.UC_FoodMenu.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.All_User_Control.UC_Payment.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.All_User_Control.UC_CustomerFeedback.resources
+C:\Users\Jishan\source\repos\Last Project\obj\Debug\Last_Project.All_User_Control.UC_Help.resources
